@@ -3,6 +3,7 @@
 A small, responsive static website draft for an open library of Gambian national exam papers.
 
 ## Preview the site
+https://five-petals.github.io/PastPapers-gm/
 
 ## What is included
 
