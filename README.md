@@ -6,7 +6,7 @@ A small, responsive static website draft for an open library of Gambian national
 https://five-petals.github.io/PastPapers-gm/
 
 <p align="center">
-  <img src="doccy/ss-spam-main.png" alt="screenshot" />
+  <img src="images/ss-papers.png" alt="screenshot" />
 </p>
 
 ## What is included
