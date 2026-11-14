@@ -5,6 +5,10 @@ A small, responsive static website draft for an open library of Gambian national
 ## Preview the site
 https://five-petals.github.io/PastPapers-gm/
 
+<p align="center">
+  <img src="doccy/ss-spam-main.png" alt="screenshot" />
+</p>
+
 ## What is included
 
 - Search by subject, exam, year, session or paper
